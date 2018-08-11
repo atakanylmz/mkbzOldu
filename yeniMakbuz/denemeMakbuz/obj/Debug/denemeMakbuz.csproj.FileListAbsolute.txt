@@ -1,0 +1,22 @@
+C:\Users\Serap\Desktop\visual studio yazılan\denemeMakbuz\denemeMakbuz\bin\Debug\denemeMakbuz.exe.config
+C:\Users\Serap\Desktop\visual studio yazılan\denemeMakbuz\denemeMakbuz\bin\Debug\denemeMakbuz.exe
+C:\Users\Serap\Desktop\visual studio yazılan\denemeMakbuz\denemeMakbuz\bin\Debug\denemeMakbuz.pdb
+C:\Users\Serap\Desktop\visual studio yazılan\denemeMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\visual studio yazılan\denemeMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.Form1.resources
+C:\Users\Serap\Desktop\visual studio yazılan\denemeMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.Properties.Resources.resources
+C:\Users\Serap\Desktop\visual studio yazılan\denemeMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\visual studio yazılan\denemeMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.exe
+C:\Users\Serap\Desktop\visual studio yazılan\denemeMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.pdb
+C:\Users\Serap\Desktop\denemeMakbuz\denemeMakbuz\bin\Debug\denemeMakbuz.exe.config
+C:\Users\Serap\Desktop\denemeMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.exe
+C:\Users\Serap\Desktop\denemeMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.pdb
+C:\Users\Serap\Desktop\yeniMakbuz\denemeMakbuz\bin\Debug\denemeMakbuz.exe.config
+C:\Users\Serap\Desktop\yeniMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.exe
+C:\Users\Serap\Desktop\yeniMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.pdb
+C:\Users\Serap\Desktop\yeniMakbuz\denemeMakbuz\bin\Debug\denemeMakbuz.exe
+C:\Users\Serap\Desktop\yeniMakbuz\denemeMakbuz\bin\Debug\denemeMakbuz.pdb
+C:\Users\Serap\Desktop\yeniMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\yeniMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.Form1.resources
+C:\Users\Serap\Desktop\yeniMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.Properties.Resources.resources
+C:\Users\Serap\Desktop\yeniMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\yeniMakbuz\denemeMakbuz\obj\Debug\denemeMakbuz.siraNoAyarlar.resources
